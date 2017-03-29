@@ -1,4 +1,4 @@
-package org.mfalcier.service;
+package org.mfalcier.lurch.service;
 
 /**
  * AppleScriptExecutorService interface.

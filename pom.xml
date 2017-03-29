@@ -5,11 +5,11 @@
 
 	<groupId>org.mfalcier</groupId>
 	<artifactId>lurch</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>lurch</name>
-	<description>Rest service that execute bash commands, meant to be used with Alfred.</description>
+	<description>REST service that execute bash commands in iTerm2, meant to be used with Alfred, through Chrome.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

@@ -1,6 +1,6 @@
-package org.mfalcier.service.impl;
+package org.mfalcier.lurch.service.impl;
 
-import org.mfalcier.service.AppleScriptExecutorService;
+import org.mfalcier.lurch.service.AppleScriptExecutorService;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

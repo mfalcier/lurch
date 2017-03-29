@@ -1,6 +1,6 @@
-package org.mfalcier.controller;
+package org.mfalcier.lurch.controller;
 
-import org.mfalcier.service.AppleScriptExecutorService;
+import org.mfalcier.lurch.service.AppleScriptExecutorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

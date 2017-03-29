@@ -1,4 +1,4 @@
-package org.mfalcier;
+package org.mfalcier.lurch;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
