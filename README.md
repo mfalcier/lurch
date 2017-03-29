@@ -1,7 +1,7 @@
 # Lurch
 Lurch is a butler... Erm, wait! It's a REST service meant to be used with [Alfred](https://www.alfredapp.com/), in order to execute bash commands through it's custom web search.
 
-![Image of Lurch](https://s3.amazonaws.com/rapgenius/Lurch_6.jpg)
+![Image of Lurch](https://s-media-cache-ak0.pinimg.com/564x/88/e9/ac/88e9ac65a9c43f9e944fd5c433d6a551.jpg)
 
 Lurch was inspired by a script developed by a friend of mine, which can be found [here](https://github.com/brunetto/ambrogio).
 
